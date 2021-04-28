@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "055c5fecda09402075c4e2172cc85414"
+        API_ID = 1243248
+        BOT_TOKEN = "1766477015:AAH4KoRWhECGkNO8Le_13oJSDE_oD5igzN4"
+        BASE_URL_OF_BOT = "http://t.me/torrentbo007bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [535112497,-1001358641894]
         OWNER_ID = 0
         
         # Google Drive Index Link should include the base dir also See readme for more info
